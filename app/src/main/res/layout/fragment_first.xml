@@ -35,7 +35,7 @@
             android:rotation="0"
             android:rotationX="0"
             android:rotationY="0"
-            android:text="working"
+            android:text="fine"
             android:textColor="@color/black"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
